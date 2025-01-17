@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../GraphBuilder/.idea/GraphBuilder.iml" filepath="$PROJECT_DIR$/../GraphBuilder/.idea/GraphBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Luxembourg.iml" filepath="$PROJECT_DIR$/.idea/Luxembourg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Rebrand/.idea/Rebrand.iml" filepath="$PROJECT_DIR$/../Rebrand/.idea/Rebrand.iml" />
+    </modules>
+  </component>
+</project>
